@@ -17,7 +17,9 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
 ### 15% 1.0 Software Development and Design
 
 1. [Compare data formats XML, JSON, and YAML](<1.0 Software Development and Design/XML-JSON-YAM.md>)
-   * [XML](<1.0 Software Development and Design/XML.md>) 
+   * [XML](<1.0 Software Development and Design/XML.md>)
+   * [JSON](<1.0 Software Development and Design/JSON.md>)
+   * [XML](<1.0 Software Development and Design/YAML.md>) 
 2. Describe parsing of common data format (XML, JSON, and YAML) to Python data structures
 3. Describe the concepts of test-driven development
 4. Compare software development methods (agile, lean, and waterfall)
