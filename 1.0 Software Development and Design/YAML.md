@@ -43,9 +43,9 @@ Nested Structures: Combine sequences and mappings.
 ```yaml
 
 employees:
-  - name: John Doe
-    role: Developer
-  - name: Jane Doe
-    role: Manager
+  - name: Overworked Employee
+    role: Wanna be Developer
+  - name: John
+    role: No one Knows
 ```
 
