@@ -16,7 +16,7 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
 
 ### 15% 1.0 Software Development and Design
 
-1. [Compare data formats XML, JSON, and YAML](<1.0 Software Development and Design/XML-JSON-YAM.md>)
+1. [Compare data formats XML, JSON, and YAML](<1.0 Software Development and Design/XML-JSON-YAML.md>)
    * [XML](<1.0 Software Development and Design/XML.md>)
    * [JSON](<1.0 Software Development and Design/JSON.md>)
    * [YAML](<1.0 Software Development and Design/YAML.md>) 
