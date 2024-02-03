@@ -15,7 +15,7 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
 - [15% 6.0 Network Fundamentals](#15-60-network-fundamentals)
 
 ### 15% 1.0 Software Development and Design
-
+  ##### Usefull: [Choosing an IDE](<1.0 Software Development and Design/IDEoptions.md>)
 1. [Compare data formats XML, JSON, and YAML](<1.0 Software Development and Design/XML-JSON-YAML.md>)
    * [XML](<1.0 Software Development and Design/XML.md>)
    * [JSON](<1.0 Software Development and Design/JSON.md>)
