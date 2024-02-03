@@ -1,6 +1,9 @@
 # 200-901 DEVASC Study Guide
 
-Just working on this as I study.
+Just working on this as I study, learning how to edit markdown too (apologies for any format mistakes).
+
+
+Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-cert-guide.html?utm_campaign=devnetcertguide&utm_source=web&utm_medium=cdc-devnetassociate-hero). The plan is to make a guide over each Topic indivudally.
 
 ## Contents
 
