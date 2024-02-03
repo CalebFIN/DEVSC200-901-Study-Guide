@@ -42,7 +42,7 @@ _JAVASCRIPT_ _OBJECT_ _NOTATION_
 
 ### _YAML_
   - Highly Ledgible
-  - Compact/Succict
+  - Compact / Smaller Data transfer
   - IDEAL For Configuration
 
 
