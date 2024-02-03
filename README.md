@@ -16,7 +16,7 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
 
 ### 15% 1.0 Software Development and Design
 
-1. [Compare data formats XML, JSON, and YAML](XML-JSON-YAM.md)
+1. [Compare data formats XML, JSON, and YAML](<1.0 Software Development and Design/XML-JSON-YAM.md>)
 2. Describe parsing of common data format (XML, JSON, and YAML) to Python data structures
 3. Describe the concepts of test-driven development
 4. Compare software development methods (agile, lean, and waterfall)
@@ -51,7 +51,7 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
 3. Describe the capabilities of Cisco compute management platforms and APIs (UCS Manager and Intersight)
 4. Describe the capabilities of Cisco collaboration platforms and APIs (Webex, Webex devices, Cisco Unified Communication Manager including AXL and UDS interfaces)
 5. Describe the capabilities of Cisco security platforms and APIs (XDR, Firepower, Umbrella, Secure Endpoint, ISE, and Secure Malware Analytics)
-6. [Describe the device level APIs and dynamic interfaces for IOS XE and NX-OS](NexusAPI.md)
+6. [Describe the device level APIs and dynamic interfaces for IOS XE and NX-OS](<3.0 Cisco Platforms and Development/NexusAPI.md>)
 7. Identify the appropriate DevNet resource for a given scenario (Sandbox, Code Exchange, support, forums, Learning Labs, and API documentation)
 8. Apply concepts of model driven programmability (YANG, RESTCONF, and NETCONF) in a Cisco environment
 9. Construct code to perform a specific operation based on a set of requirements and given API reference documentation such as these:
