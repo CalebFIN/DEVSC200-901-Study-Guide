@@ -25,7 +25,7 @@ Data within these formats
 
 
   
-### _XML_
+### _[XML](XML.md)_
 
   - Legacy Support
   - SOAP USES XML
