@@ -48,7 +48,7 @@ Just working on this as I study.
 3. Describe the capabilities of Cisco compute management platforms and APIs (UCS Manager and Intersight)
 4. Describe the capabilities of Cisco collaboration platforms and APIs (Webex, Webex devices, Cisco Unified Communication Manager including AXL and UDS interfaces)
 5. Describe the capabilities of Cisco security platforms and APIs (XDR, Firepower, Umbrella, Secure Endpoint, ISE, and Secure Malware Analytics)
-6. Describe the device level APIs and dynamic interfaces for IOS XE and NX-OS
+6. [Describe the device level APIs and dynamic interfaces for IOS XE and NX-OS](NexusAPI.md)
 7. Identify the appropriate DevNet resource for a given scenario (Sandbox, Code Exchange, support, forums, Learning Labs, and API documentation)
 8. Apply concepts of model driven programmability (YANG, RESTCONF, and NETCONF) in a Cisco environment
 9. Construct code to perform a specific operation based on a set of requirements and given API reference documentation such as these:
