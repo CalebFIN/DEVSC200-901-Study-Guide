@@ -22,7 +22,7 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
    * [YAML](<1.0 Software Development and Design/YAML.md>) 
 2. [Describe parsing of common data format (XML, JSON, and YAML) to Python data structures](<1.0 Software Development and Design/Parsing XML, JSON, and YAML Python.md>)
 3. [Describe the concepts of test-driven development](<1.0 Software Development and Design/TDD.md>)
-4. Compare software development methods (agile, lean, and waterfall)
+4. [Compare software development methods (agile, lean, and waterfall)](<1.0 Software Development and Design/agile-lean-waterfall.md>)
 5. Explain the benefits of organizing code into methods / functions, classes, and modules
 6. Identify the advantages of common design patterns (MVC and Observer)
 7. Explain the advantages of version control
