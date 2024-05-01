@@ -27,13 +27,13 @@ Here is the [Cisco DevNet Cert Guide](https://mkto.cisco.com/devnet-associate-ce
 6. Identify the advantages of common design patterns (MVC and Observer)
 7. Explain the advantages of version control
 8. Utilize common version control operations with Git
-    - [Clone](<GIT\Clone.md>)
-    - [Add/remove](<GIT\Add-remove.md>)
-    - [Commit](<GIT\Commit.md>)
-    - [Push / pull](<GIT\Push-Pull.md>)
-    - [Branch](<GIT\Branch.md>)
-    - [Merge and handling conflicts](<GIT\Merge.md>)
-    - [diff](<GIT\diff.md>)
+    - [Clone](<GIT/Clone.md>)
+    - [Add/remove](<GIT/Add-remove.md>)
+    - [Commit](<GIT/Commit.md>)
+    - [Push / pull](<GIT/Push-Pull.md>)
+    - [Branch](<GIT/Branch.md>)
+    - [Merge and handling conflicts](<GIT/Merge.md>)
+    - [diff](<GIT/diff.md>)
 
 ### 20% 2.0 Understanding and Using APIs
 
